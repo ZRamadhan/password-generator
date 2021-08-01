@@ -28,7 +28,7 @@ passgen (option)
 | Short | Long              | Description                     |
 | ----- | ----------------- | ------------------------------- |
 | -t    | --title  <title>  | password title/description      |
-| -l    | --length <number> | length of password (default: 10)|
+| -l    | --length <numbers>| length of password (default: 10)|
 | -s    | --save            | save password to passwords.txt  |
 | -nn   | --no-numbers      | remove numbers                  |
 | -ns   | --no-symbols      | remove symbols                  |
